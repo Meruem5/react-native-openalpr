@@ -17,6 +17,9 @@
     "react-native"
   ],
   "homepage": "https://github.com/Meruem5/react-native-openalpr",
+  "author": {
+    "name": "Evan Rosenfeld, CarDash <www.cardash.com>"
+  },
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "readmeFilename": "README.md",
